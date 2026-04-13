@@ -1,0 +1,66 @@
+id,name,is_lab
+1,North Wing · 101,0
+2,North Wing · 102,0
+3,North Wing · 201,0
+4,East Block · A301,0
+5,East Block · A302,0
+6,Central Hall · C105,0
+7,Central Hall · C106,0
+8,Innovation Hub · 01,0
+9,Innovation Hub · 02,0
+10,Seminar Hall · I,0
+11,Seminar Hall · II,0
+12,Annexe · R101,0
+13,Annexe · R102,0
+14,Tower · T3-01,0
+15,Tower · T3-02,0
+16,Tower · T4-01,0
+17,Library Studio · LS1,0
+18,Library Studio · LS2,0
+19,Learning Commons · LC1,0
+20,Learning Commons · LC2,0
+21,Computing Lab – Alpha,1
+22,Computing Lab – Beta,1
+23,Networks & Security Lab,1
+24,Microprocessor & IoT Lab,1
+25,Database & OS Lab,1
+26,Embedded & Robotics Lab,1
+27,Physics & Chemistry Lab,1
+28,Electronics Workshop,1
+29,CAD & Simulation Lab,1
+30,Project & Design Studio,1
+31,Open Lab – Ground,1
+32,Open Lab – First,1
+33,Computing Lab2 – Alpha,1
+34,Computing Lab2 – Beta,1
+35,Networks & Security Lab2,1
+36,Microprocessor & IoT Lab2,1
+37,Database & OS Lab2,1
+38,Embedded & Robotics Lab2,1
+39,Physics & Chemistry Lab2,1
+40,Electronics Workshop2,1
+41,CAD & Simulation Lab2,1
+42,Project & Design Studio2,1
+43,Open Lab – Ground2,1
+44,Open Lab – First2,1
+1,North Wing · 301,0
+2,North Wing · 302,0
+3,North Wing · 401,0
+4,East Block · B301,0
+5,East Block · B302,0
+6,Central Hall · D105,0
+7,Central Hall · D106,0
+8,Innovation Hub · 11,0
+9,Innovation Hub · 12,0
+10,Seminar Hall · III,0
+11,Seminar Hall · IV0
+12,Annexe · R201,0
+13,Annexe · R202,0
+14,Tower · T3-11,0
+15,Tower · T3-12,0
+16,Tower · T4-31,0
+17,Library Studio · LS3,0
+18,Library Studio · LS4,0
+19,Learning Commons · LC4,0
+20,Learning Commons · LC5,0
+
