@@ -1,0 +1,1 @@
+This is the miniproject for our group. This runs only on apple devices
