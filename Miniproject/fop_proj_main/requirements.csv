@@ -1,0 +1,81 @@
+division_id,subject,faculty_id,sessions_per_week,duration_slots,batch_id,requires_lab
+1,Engineering Mathematics – III & Transform Methods,1,4,1,0,0
+1,Data Structures / Algorithms / Competitive Programming,2,4,1,0,0
+1,Operating Systems · LINUX Internals & Virtualization,3,4,1,0,0
+1,Networks · Embedded & Hardware Laboratory,4,4,2,1,1
+2,Engineering Mathematics – III & Transform Methods,5,4,1,0,0
+2,Data Structures / Algorithms / Competitive Programming,6,4,1,0,0
+2,Operating Systems · LINUX Internals & Virtualization,7,4,1,0,0
+2,Networks · Embedded & Hardware Laboratory,8,4,2,1,1
+3,Engineering Mathematics – III & Transform Methods,9,4,1,0,0
+3,Data Structures / Algorithms / Competitive Programming,10,4,1,0,0
+3,Operating Systems · LINUX Internals & Virtualization,11,4,1,0,0
+3,Networks · Embedded & Hardware Laboratory,12,4,2,1,1
+4,Engineering Mathematics – III & Transform Methods,13,4,1,0,0
+4,Data Structures / Algorithms / Competitive Programming,14,4,1,0,0
+4,Operating Systems · LINUX Internals & Virtualization,15,,1,0,0
+4,Networks · Embedded & Hardware Laboratory,16,4,2,1,1
+5,Engineering Mathematics – III & Transform Methods,17,4,1,0,0
+5,Data Structures / Algorithms / Competitive Programming,18,4,1,0,0
+5,Operating Systems · LINUX Internals & Virtualization,19,4,1,0,0
+5,Networks · Embedded & Hardware Laboratory,20,4,2,1,1
+6,Engineering Mathematics – III & Transform Methods,21,4,1,0,0
+6,Data Structures / Algorithms / Competitive Programming,22,4,1,0,0
+6,Operating Systems · LINUX Internals & Virtualization,23,4,1,0,0
+6,Networks · Embedded & Hardware Laboratory,24,4,2,1,1
+7,Engineering Mathematics – III & Transform Methods,25,4,1,0,0
+7,Data Structures / Algorithms / Competitive Programming,26,4,1,0,0
+7,Operating Systems · LINUX Internals & Virtualization,27,4,1,0,0
+7,Networks · Embedded & Hardware Laboratory,28,4,2,1,1
+8,Engineering Mathematics – III & Transform Methods,29,4,1,0,0
+8,Data Structures / Algorithms / Competitive Programming,30,4,1,0,0
+8,Operating Systems · LINUX Internals & Virtualization,31,4,1,0,0
+8,Networks · Embedded & Hardware Laboratory,32,4,2,1,1
+9,Engineering Mathematics – III & Transform Methods,33,4,1,0,0
+9,Data Structures / Algorithms / Competitive Programming,34,4,1,0,0
+9,Operating Systems · LINUX Internals & Virtualization,35,4,1,0,0
+9,Networks · Embedded & Hardware Laboratory,36,4,1,1
+10,Engineering Mathematics – III & Transform Methods,37,4,1,0,0
+10,Data Structures / Algorithms / Competitive Programming,38,4,1,0,0
+10,Operating Systems · LINUX Internals & Virtualization,39,4,1,0,0
+10,Networks · Embedded & Hardware Laboratory,40,4,2,1,1
+11,Engineering Mathematics – III & Transform Methods,41,4,1,0,0
+11,Data Structures / Algorithms / Competitive Programming,42,4,1,0,0
+11,Operating Systems · LINUX Internals & Virtualization,43,4,1,0,0
+11,Networks · Embedded & Hardware Laboratory,44,4,2,1,1
+12,Engineering Mathematics – III & Transform Methods,45,1,1,0,0
+12,Data Structures / Algorithms / Competitive Programming,46,1,1,0,0
+12,Operating Systems · LINUX Internals & Virtualization,47,1,1,0,0
+12,Networks · Embedded & Hardware Laboratory,48,1,2,1,1
+13,Engineering Mathematics – III & Transform Methods,1,1,1,0,0
+13,Data Structures / Algorithms / Competitive Programming,1,1,0,0
+13,Operating Systems · LINUX Internals & Virtualization,3,1,1,0,0
+13,Networks · Embedded & Hardware Laboratory,5,1,2,1,1
+14,Engineering Mathematics – III & Transform Methods,6,1,1,0,0
+14,Data Structures / Algorithms / Competitive Programming,7,1,1,0,0
+14,Operating Systems · LINUX Internals & Virtualization,9,1,1,0,0
+14,Networks · Embedded & Hardware Laboratory,10,1,2,1,1
+15,Engineering Mathematics – III & Transform Methods,11,1,1,0,0
+15,Data Structures / Algorithms / Competitive Programming,13,1,1,0,0
+15,Operating Systems · LINUX Internals & Virtualization,14,1,1,0,0
+15,Networks · Embedded & Hardware Laboratory,15,1,2,1,1
+16,Engineering Mathematics – III & Transform Methods,17,1,1,0,0
+16,Data Structures / Algorithms / Competitive Programming,18,1,1,0,0
+16,Operating Systems · LINUX Internals & Virtualization,19,1,1,0,0
+16,Networks · Embedded & Hardware Laboratory,21,1,2,1,1
+17,Engineering Mathematics – III & Transform Methods,22,1,1,0,0
+17,Data Structures / Algorithms / Competitive Programming,23,1,1,0,0
+17,Operating Systems · LINUX Internals & Virtualization,25,1,1,0,0
+17,Networks · Embedded & Hardware Laboratory,26,1,2,1,1
+18,Engineering Mathematics – III & Transform Methods,27,1,1,0,0
+18,Data Structures / Algorithms / Competitive Programming,29,1,1,0,0
+18,Operating Systems · LINUX Internals & Virtualization,30,1,1,0,0
+18,Networks · Embedded & Hardware Laboratory,31,1,2,1,1
+19,Engineering Mathematics – III & Transform Methods,33,1,1,0,0
+19,Data Structures / Algorithms / Competitive Programming,34,1,1,0,0
+19,Operating Systems · LINUX Internals & Virtualization,35,1,1,0,0
+19,Networks · Embedded & Hardware Laboratory,37,1,2,1,1
+20,Engineering Mathematics – III & Transform Methods,38,1,1,0,0
+20,Data Structures / Algorithms / Competitive Programming,39,1,1,0,0
+20,Operating Systems · LINUX Internals & Virtualization,41,1,1,0,0
+20,Networks · Embedded & Hardware Laboratory,42,1,2,1,1
